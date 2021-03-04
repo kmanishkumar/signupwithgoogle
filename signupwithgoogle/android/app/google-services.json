@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983378256679",
+    "project_id": "dashchatexamplemaster",
+    "storage_bucket": "dashchatexamplemaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983378256679:android:749d22cb0aff714d733f02",
+        "android_client_info": {
+          "package_name": "com.application.signupwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983378256679-5cscaga12eagh7udli7msnp4aqk0mrd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUCqNdkCQZGIfhptH0x11zE48RxjnMxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983378256679-5cscaga12eagh7udli7msnp4aqk0mrd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
